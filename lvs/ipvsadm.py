@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# author: Finy
+# email: jos666@qq.com
 
 import json
 import sys
